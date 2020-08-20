@@ -11,9 +11,3 @@ markdown: kramdown
 include: [_redirects, _headers]
 logo: https://coderic.net/assets/coderic/images/logo43.png
 remote_theme: CodericDev/CodericTheme
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
